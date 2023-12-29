@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "hidden_singles.h": "c",
+        "atomic": "c"
+    }
+}

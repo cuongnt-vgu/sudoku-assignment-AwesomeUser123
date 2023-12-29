@@ -12,6 +12,8 @@ struct Cell_impl
     int num_candidates;
     int candidates[BOARD_SIZE];
     int value; // solved or 0
+    int val;
+    int Found;
     bool fixed;
 };
 
